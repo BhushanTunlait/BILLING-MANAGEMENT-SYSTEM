@@ -1,7 +1,7 @@
 # BILLING-MANAGEMENT-SYSTEM
 This repo will be used for projects and submissions
 
-The Billing Management System is a comprehensive application designed to provide efficient billing services, track user usage records, generate invoices, and manage customer data. This desktop-based system offers a user-friendly interface and powerful functionalities to streamline billing processes and facilitate seamless business operations.
+The Billing Management System is a comprehensive application designed to provide efficient billing services, track user usage records, generate invoices, and manage customer data. This desktop-based system offers a user-friendly interface and powerful functionalities to streamline billing processes and facilitate seamless business operations. 
 
 Key Features
 
