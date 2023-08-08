@@ -78,6 +78,10 @@ The Billing Management System is a comprehensive application designed to provide
 
 ![barcodepic](https://github.com/BhushanTunlait/BILLING-MANAGEMENT-SYSTEM/assets/95274380/551fba63-bb94-4e87-9e75-23109c414ed6)
 
+![WhatsApp Image 2023-04-25 at 9 28 47 PM](https://github.com/BhushanTunlait/BILLING-MANAGEMENT-SYSTEM/assets/95274380/8ccdeb47-3735-4151-8f04-91c35ec96e3d)
+
+![Screenshot 2023-08-08 150102](https://github.com/BhushanTunlait/BILLING-MANAGEMENT-SYSTEM/assets/95274380/c95727ad-a915-4767-b43d-d246de2ee041)
+
 ![receipthistory](https://github.com/BhushanTunlait/BILLING-MANAGEMENT-SYSTEM/assets/95274380/5174ae3e-0916-4ad9-8d15-b64a72505da9)
 
 ![productdata](https://github.com/BhushanTunlait/BILLING-MANAGEMENT-SYSTEM/assets/95274380/887b2204-b715-40b2-83ae-5102203f5237)
